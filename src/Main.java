@@ -3,6 +3,6 @@ public class Main {
 
     public static void main(String[] args) {
         WordsChecker loremIpsum = new WordsChecker(TEXT);
-        System.out.println(loremIpsum.hasWord("sed"));
+        System.out.println(loremIpsum.hasWord("ut"));
     }
 }
